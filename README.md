@@ -74,4 +74,29 @@ A full-stack restaurant management application built with a Spring Boot backend 
 
 ---
 
+## Screenshots
 
+### User Login Page
+![image](https://github.com/user-attachments/assets/eedb7f2d-90a1-411a-9fae-b733564109ba)
+![image](https://github.com/user-attachments/assets/fe9239ed-8ff0-4d9f-965d-9999519649d1)
+
+### User Dashboard
+![image](https://github.com/user-attachments/assets/dd3d06ca-938a-4338-94c8-d97c3fa58fba)
+
+### Menu Tab
+![image](https://github.com/user-attachments/assets/fd9bcf3d-5dd2-4fd6-8cad-2c2ca2ea458c)
+
+### View Order Tab
+![image](https://github.com/user-attachments/assets/55bdf94d-f473-42cd-b6e4-ecc296f3bab0)
+### Table Booking Tab
+![image](https://github.com/user-attachments/assets/d14c0506-716b-412e-9554-ac7cfe4863cc)
+
+### Admin Login Page
+Username: admin
+Password: admin
+![image](https://github.com/user-attachments/assets/2f3859e6-950f-4ef4-9b78-8863bb062fab)
+
+### Admin Dashboard
+![image](https://github.com/user-attachments/assets/1713d4fb-465e-4a93-9f14-9462d5dc847e)
+
+---
